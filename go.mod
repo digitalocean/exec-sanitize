@@ -1,4 +1,4 @@
-module github.com/kamaln7/exec-sanitize/v2
+module github.com/digitalocean/exec-sanitize/v2
 
 go 1.14
 
